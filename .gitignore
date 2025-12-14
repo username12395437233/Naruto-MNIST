@@ -1,0 +1,14 @@
+# models / weights
+*.pth
+*.pt
+*.onnx
+*.ckpt
+*.safetensors
+
+# data
+data/
+**/__pycache__/
+.ipynb_checkpoints/
+
+# logs
+runs/
